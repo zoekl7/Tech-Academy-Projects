@@ -1,0 +1,25 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+#contact {
+    background: rgb(0, 162, 255);
+    text-align: center;
+    width: 50%;
+}
+
+#contact form {
+    font-size: 15px;
+    outline: thin;
+    font-weight: 600;
+    padding: 20px;
+    width: 11em;
+    border: 7 solid rgb(0, 63, 0);
+}
+
+#contact input[type="text"], [type="email"] {
+    font-size: small;
+    outline: double;
+    margin: 10px;
+}
